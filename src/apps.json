@@ -3577,6 +3577,13 @@
       },
       "website": "https://getsatisfaction.com/corp/"
     },
+    "GetSend": {
+      "cats": [
+        10,
+        32
+      ],
+      "website": "http://getsend.aliaxmarketing.com/en/"
+    },
     "GetSimple CMS": {
       "cats": [
         1
